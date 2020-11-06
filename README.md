@@ -25,6 +25,16 @@ El este proyecto se evaluaran 7 casos distintos
 
  ![imagen](/Grafico_Caso1.png)
  
+ ![imagen](/frame_0h_caso1.png)
+ 
+ ![imagen](/frame_2h_caso1.png)
+ 
+ ![imagen](/frame_6h_caso1.png)
+ 
+ ![imagen](/frame_12h_caso1.png)
+ 
+ ![imagen](/frame_24h_caso1.png)
+ 
 
 ![imagen](/2D_ej04_frame_Caso_1.gif)
   
@@ -40,6 +50,16 @@ Caso 2:
 *Borde Derecho: Gradiente 0  
  
  ![imagen](/Grafico_Caso2.png)
+ 
+ ![imagen](/frame_0h_caso2.png)
+ 
+ ![imagen](/frame_2h_caso2.png)
+ 
+ ![imagen](/frame_6h_caso2.png)
+ 
+ ![imagen](/frame_12h_caso2.png)
+ 
+ ![imagen](/frame_24h_caso2.png)
  
 
 ![imagen](/2D_ej04_frame_Caso_2.gif)
@@ -57,6 +77,16 @@ Caso 3:
  
  ![imagen](/Grafico_Caso3.png)
  
+ ![imagen](/frame_0h_caso3.png)
+ 
+ ![imagen](/frame_2h_caso3.png)
+ 
+ ![imagen](/frame_6h_caso3.png)
+ 
+ ![imagen](/frame_12h_caso3.png)
+ 
+ ![imagen](/frame_24h_caso3.png)
+ 
 
 ![imagen](/2D_ej04_frame_Caso_3.gif)
 
@@ -72,6 +102,16 @@ Condiciones de borde:
 *Borde Derecho: Gradiente 0  
 
  ![imagen](/Grafico_Caso4.png)
+ 
+ ![imagen](/frame_0h_caso4.png)
+ 
+ ![imagen](/frame_2h_caso4.png)
+ 
+ ![imagen](/frame_6h_caso4.png)
+ 
+ ![imagen](/frame_12h_caso4.png)
+ 
+ ![imagen](/frame_24h_caso4.png)
  
 
 ![imagen](/2D_ej04_frame_Caso_4.gif)
@@ -89,6 +129,16 @@ Caso 5:
  
  ![imagen](/Grafico_Caso5.png)
  
+ ![imagen](/frame_0h_caso5.png)
+ 
+ ![imagen](/frame_2h_caso5.png)
+ 
+ ![imagen](/frame_6h_caso5.png)
+ 
+ ![imagen](/frame_12h_caso5.png)
+ 
+ ![imagen](/frame_24h_caso5.png)
+ 
 
 ![imagen](/2D_ej04_frame_Caso_5.gif)
 
@@ -104,6 +154,16 @@ Caso 6:
 *Borde Derecho: Gradiente 0  
  
  ![imagen](/Grafico_Caso6.png)
+ 
+ ![imagen](/frame_0h_caso6.png)
+ 
+ ![imagen](/frame_2h_caso6.png)
+ 
+ ![imagen](/frame_6h_caso6.png)
+ 
+ ![imagen](/frame_12h_caso6.png)
+ 
+ ![imagen](/frame_24h_caso6.png)
  
 
 ![imagen](/2D_ej04_frame_Caso_6.gif)
@@ -121,6 +181,16 @@ Condiciones de borde:
   
  
  ![imagen](/Grafico_Caso7.png)
+ 
+ ![imagen](/frame_0h_caso7.png)
+ 
+ ![imagen](/frame_2h_caso7.png)
+ 
+ ![imagen](/frame_6h_caso7.png)
+ 
+ ![imagen](/frame_12h_caso7.png)
+ 
+ ![imagen](/frame_24h_caso7.png)
  
 
 ![imagen](/2D_ej04_frame_Caso_7.gif)
