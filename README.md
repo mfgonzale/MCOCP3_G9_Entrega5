@@ -9,83 +9,83 @@ Los hormigones masivos se caracterizan por ser hormigones de gran volumen y se p
 
 El este proyecto se evaluaran 7 casos distintos, que son los siguientes:
 
-Caso 1:
+Caso 1:  
+  
+Condiciones de borde:  
+  
+*20° Inicial  
+*Borde Superior: 0°  
+*Borde Izquierdo: 20°  
+*Borde Inferior: 20°  
+*Borde Derecho: 0°  
+  
 
-Condiciones de borde:
-
-*20° Inicial
-*Borde Superior: 0°
-*Borde Izquierdo: 20°
-*Borde Inferior: 20°
-*Borde Derecho: 0°
-
-
-Caso 2:
-
-Condiciones de borde:
-
-*20° Inicial
-*Borde Superior: 0°
-*Borde Izquierdo: 20°
-*Borde Inferior: 20°
-*Borde Derecho: Gradiente 0
-
-
-Caso 3:
-
-Condiciones de borde:
-
-*10° Inicial
-*Borde Superior: 0°
-*Borde Izquierdo: 20°
-*Borde Inferior: 20°
-*Borde Derecho: 20°
-
-
-Caso 4:
-
-Condiciones de borde:
-
-*10° Inicial
-*Borde Superior: 0°
-*Borde Izquierdo: 20°
-*Borde Inferior: 20°
-*Borde Derecho: Gradiente 0
-
-
-Caso 5:
-
-Condiciones de borde:
-
-*5° Inicial
-*Borde Superior: Gradiente 0
-*Borde Izquierdo: 25°
-*Borde Inferior: Gradiente 0
-*Borde Derecho: 25°
-
-
-Caso 6:
-
-Condiciones de borde:
-
-*30° Inicial
-*Borde Superior: Gradiente 0
-*Borde Izquierdo: 10°
-*Borde Inferior: Gradiente 0
-*Borde Derecho: Gradiente 0
-
-
-Caso 7:
-
-Condiciones de borde:
-
-*20° Inicial
-*Borde Superior: Temperatura ambiental (sinusoide con variación de 10°, período de 1 día)
-*Borde Izquierdo: Gradiente 0
-*Borde Inferior: Gradiente 0
-*Borde Derecho: Gradiente 0
-
-
+Caso 2:  
+  
+Condiciones de borde:  
+  
+*20° Inicial  
+*Borde Superior: 0°  
+*Borde Izquierdo: 20°  
+*Borde Inferior: 20°  
+*Borde Derecho: Gradiente 0  
+  
+  
+Caso 3:  
+  
+Condiciones de borde:  
+  
+*10° Inicial  
+*Borde Superior: 0°  
+*Borde Izquierdo: 20°  
+*Borde Inferior: 20°  
+*Borde Derecho: 20°  
+  
+  
+Caso 4:  
+  
+Condiciones de borde:  
+  
+*10° Inicial  
+*Borde Superior: 0°  
+*Borde Izquierdo: 20°  
+*Borde Inferior: 20°  
+*Borde Derecho: Gradiente 0  
+  
+  
+Caso 5:  
+  
+Condiciones de borde:  
+  
+*5° Inicial  
+*Borde Superior: Gradiente 0  
+*Borde Izquierdo: 25°  
+*Borde Inferior: Gradiente 0  
+*Borde Derecho: 25°  
+  
+  
+Caso 6:  
+  
+Condiciones de borde:  
+  
+*30° Inicial  
+*Borde Superior: Gradiente 0  
+*Borde Izquierdo: 10°  
+*Borde Inferior: Gradiente 0  
+*Borde Derecho: Gradiente 0  
+  
+  
+Caso 7:  
+  
+Condiciones de borde:  
+  
+*20° Inicial  
+*Borde Superior: Temperatura ambiental (sinusoide con variación de 10°, período de 1 día)  
+*Borde Izquierdo: Gradiente 0  
+*Borde Inferior: Gradiente 0  
+*Borde Derecho: Gradiente 0  
+  
+  
 
 # Resultados.
 
