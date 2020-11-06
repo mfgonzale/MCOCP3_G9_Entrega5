@@ -7,85 +7,7 @@
 # Introducción.
 Los hormigones masivos se caracterizan por ser hormigones de gran volumen y se pueden encontrar en casi todas las obras construidas. Un factor de interés en este proyecto es la generación de calor que produce la hidratación del cemento, llegando a tener en el hormigón masivo distintos valores de temperaturas en el tiempo, los cuales pueden llegar a durar días incluso. En este caso la difusión de calor se tomará de manera bidireccional (en 2-D) y se sigue difundiendo de forma simétrica, por lo que se toman tres nodos dentro del molde, los cuales son P1(a/2,b/2), P2(a/2,3b/4) y P3(3a/4,3b/4). Para estimar los valores de temperatura en el tiempo se simulará la difusión térmica usando diferencias finitas. Luego se busca realizar la discretización de las condiciones de borde naturales.
 
-El este proyecto se evaluaran 7 casos distintos, que son los siguientes:
-
-Caso 1:  
-  
-Condiciones de borde:  
-  
-*20° Inicial  
-*Borde Superior: 0°  
-*Borde Izquierdo: 20°  
-*Borde Inferior: 20°  
-*Borde Derecho: 0°  
-  
-
-Caso 2:  
-  
-Condiciones de borde:  
-  
-*20° Inicial  
-*Borde Superior: 0°  
-*Borde Izquierdo: 20°  
-*Borde Inferior: 20°  
-*Borde Derecho: Gradiente 0  
-  
-  
-Caso 3:  
-  
-Condiciones de borde:  
-  
-*10° Inicial  
-*Borde Superior: 0°  
-*Borde Izquierdo: 20°  
-*Borde Inferior: 20°  
-*Borde Derecho: 20°  
-  
-  
-Caso 4:  
-  
-Condiciones de borde:  
-  
-*10° Inicial  
-*Borde Superior: 0°  
-*Borde Izquierdo: 20°  
-*Borde Inferior: 20°  
-*Borde Derecho: Gradiente 0  
-  
-  
-Caso 5:  
-  
-Condiciones de borde:  
-  
-*5° Inicial  
-*Borde Superior: Gradiente 0  
-*Borde Izquierdo: 25°  
-*Borde Inferior: Gradiente 0  
-*Borde Derecho: 25°  
-  
-  
-Caso 6:  
-  
-Condiciones de borde:  
-  
-*30° Inicial  
-*Borde Superior: Gradiente 0  
-*Borde Izquierdo: 10°  
-*Borde Inferior: Gradiente 0  
-*Borde Derecho: Gradiente 0  
-  
-  
-Caso 7:  
-  
-Condiciones de borde:  
-  
-*20° Inicial  
-*Borde Superior: Temperatura ambiental (sinusoide con variación de 10°, período de 1 día)  
-*Borde Izquierdo: Gradiente 0  
-*Borde Inferior: Gradiente 0  
-*Borde Derecho: Gradiente 0  
-  
-  
+El este proyecto se evaluaran 7 casos distintos
 
 # Resultados.
 
@@ -93,6 +15,14 @@ Condiciones de borde:
  
  Caso 1:
  
+ Condiciones de borde:  
+  
+*20° Inicial  
+*Borde Superior: 0°  
+*Borde Izquierdo: 20°  
+*Borde Inferior: 20°  
+*Borde Derecho: 0°  
+
  ![imagen](/Grafico_Caso1.png)
  
 
@@ -100,6 +30,14 @@ Condiciones de borde:
   
   
 Caso 2:
+ 
+ Condiciones de borde:  
+  
+*20° Inicial  
+*Borde Superior: 0°  
+*Borde Izquierdo: 20°  
+*Borde Inferior: 20°  
+*Borde Derecho: Gradiente 0  
  
  ![imagen](/Grafico_Caso2.png)
  
@@ -109,6 +47,14 @@ Caso 2:
 
 Caso 3:
  
+ Condiciones de borde:  
+  
+*10° Inicial  
+*Borde Superior: 0°  
+*Borde Izquierdo: 20°  
+*Borde Inferior: 20°  
+*Borde Derecho: 20°  
+ 
  ![imagen](/Grafico_Caso3.png)
  
 
@@ -116,7 +62,15 @@ Caso 3:
 
 
 Caso 4:
- 
+
+Condiciones de borde:  
+  
+*10° Inicial  
+*Borde Superior: 0°  
+*Borde Izquierdo: 20°  
+*Borde Inferior: 20°  
+*Borde Derecho: Gradiente 0  
+
  ![imagen](/Grafico_Caso4.png)
  
 
@@ -124,6 +78,14 @@ Caso 4:
 
 
 Caso 5:
+ 
+ Condiciones de borde:  
+  
+*5° Inicial  
+*Borde Superior: Gradiente 0  
+*Borde Izquierdo: 25°  
+*Borde Inferior: Gradiente 0  
+*Borde Derecho: 25°  
  
  ![imagen](/Grafico_Caso5.png)
  
@@ -133,6 +95,14 @@ Caso 5:
 
 Caso 6:
  
+ Condiciones de borde:  
+  
+*30° Inicial  
+*Borde Superior: Gradiente 0  
+*Borde Izquierdo: 10°  
+*Borde Inferior: Gradiente 0  
+*Borde Derecho: Gradiente 0  
+ 
  ![imagen](/Grafico_Caso6.png)
  
 
@@ -140,6 +110,15 @@ Caso 6:
 
 
 Caso 7:
+
+Condiciones de borde:  
+  
+*20° Inicial  
+*Borde Superior: Temperatura ambiental (sinusoide con variación de 10°, período de 1 día)  
+*Borde Izquierdo: Gradiente 0  
+*Borde Inferior: Gradiente 0  
+*Borde Derecho: Gradiente 0  
+  
  
  ![imagen](/Grafico_Caso7.png)
  
