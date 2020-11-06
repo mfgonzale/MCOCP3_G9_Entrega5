@@ -128,3 +128,7 @@ Condiciones de borde:
 
 # Conclusión
 
+¿como cambia el código para el caso 3-D? ¿Como se imponen las condiciones de borde?
+
+Para responder esta pregunta, primero tenemos que entender los cambio al realizar un modelo 3D. Al agregar una dimensión a nuestro modelo se le agragaría profundidad a una figura plana, formando asi una especie de cubo o prisma rectangular. Con este cambio nuestras condiciones de borde pasan de ser lineales a un rectangulo o cuadrado dependiendo de la forma, es decir las condiciones borde pasarían a ser planos definidos que encierran los puntos a iterar. 
+Para lograr este cambio a 3d se debe agregar un ciclo ´for´ para pasar de una matriz de 2d a una 3d. Esta condición se debe tener en cuenta al momento de aplicar el algoritmo, ya que cambiara el orden al llegar a las condiciones borde establecidas.
